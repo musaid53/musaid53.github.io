@@ -1,2 +1,2 @@
-# musaid53.github.io
-personal portfolio
+# My personal portfolio page
+http://www.muhammedcamkerten.com
